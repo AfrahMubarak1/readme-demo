@@ -6,4 +6,5 @@ This is a sample README created locally and pushed to Github
 - Just read this file
 
 ## Author
-- Afrah
+- Umar
+
